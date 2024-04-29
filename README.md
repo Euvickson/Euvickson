@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Eugenio</h1>
 <h3 align="center">Hello Folks</h3>
-<h2 align="center">I am from Aracaju-SE, Brazil, and I'm passionate about technology and especially mobile development.</h2>
+<p align="center">I am from Aracaju-SE, Brazil, and I'm passionate about technology and especially mobile development.</p>
 
 </br>
 
