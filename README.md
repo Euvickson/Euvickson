@@ -4,8 +4,8 @@
 
 </br>
 
-- 📫 How to reach me **victor.eugennio@gmail.com**
-- 📚 I'm graduating in Computer Science at Faculdade descomplica
+<p>- 📫 How to reach me **victor.eugennio@gmail.com**</p>
+<p>- 📚 I'm graduating in Computer Science at <a href="https://descomplica.com.br/faculdade">Faculdade descomplica</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
